@@ -1,2 +1,2 @@
 # 0r-weaponsreality
-SCRIPT FOR HOLDING WEAPONS UNESCROWED - 0RESMON 
+0R-WEAPONREALITY V2 ( Weapon Animation Mechanic, Throw Weapons, Peek, Drop Gun)
